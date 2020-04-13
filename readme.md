@@ -7,7 +7,7 @@ The orignal data set only contains number of cases, fatalities and a time stamp.
 # EDA
 ![correlation_2](https://user-images.githubusercontent.com/20724609/78664923-9aa2ca00-78f2-11ea-95d7-17a7524148ae.png)
 
-This heatman shows pairwise correlation of all the features. 
+This heatmap shows pairwise correlation of all the features. 
 very weak negative correlation (~ -0.1) between humidity and number of cases which is in agreement with majority of research taking place (https://www.researchgate.net/publication/339873481_High_Temperature_and_High_Humidity_Reduce_the_Transmission_of_COVID-19).
 
 # future plans
